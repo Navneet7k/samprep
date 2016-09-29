@@ -36,7 +36,8 @@ import com.google.firebase.auth.FirebaseUser;
 
 /**
  *neewww
- * Activity to demonstrate anonymous login and account linking (with an email/password account).
+ * Activity to demonstrate anonymous login and account linking (with an email/password account)
+ * New Change .
  */
 public class AnonymousAuthActivity extends BaseActivity implements
         View.OnClickListener {
@@ -46,7 +47,6 @@ public class AnonymousAuthActivity extends BaseActivity implements
     // [START declare_auth]
     private FirebaseAuth mAuth;
     // [END declare_auth]
-
     // [START declare_auth_listener]
     private FirebaseAuth.AuthStateListener mAuthListener;
     // [END declare_auth_listener]
