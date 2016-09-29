@@ -38,6 +38,7 @@ import com.google.firebase.auth.FirebaseUser;
  *neewww
  * Activity to demonstrate anonymous login and account linking (with an email/password account)
  * New Change .
+ * navneet
  */
 public class AnonymousAuthActivity extends BaseActivity implements
         View.OnClickListener {
